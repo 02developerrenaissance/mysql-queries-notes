@@ -97,3 +97,7 @@ Case 3 : Conditional aggregates
 	    ->selectRaw('count(*) filter (where is_editor) as editors')
 	    ->selectRaw('count(*) filter (where is_manager) as managers')
 	    ->first();
+
+
+Another Intresting Laravel link : 
+https://reinink.ca/articles/dynamic-relationships-in-laravel-using-subqueries
