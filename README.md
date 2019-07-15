@@ -12,6 +12,6 @@ Would be linking TableauPublic Profile View/DashBoard.
 
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/ScatterPlot-IncomeVsGradePerDiscticts/ScatterPlotIncomeVsGrades?:embed=y&:display_count=yes&:origin=viz_share_link&:showVizHome=no" width = '650' height = '450'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ScatterPlot-IncomeVsGradePerDiscticts/ScatterPlotIncomeVsGrades?:embed=y&:display_count=yes&:origin=viz_share_link&:showVizHome=no" width = '600' height = '450' scrolling='yes'></iframe>
 
 
